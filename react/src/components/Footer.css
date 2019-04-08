@@ -1,0 +1,7 @@
+button.active {
+    background-color: crimson;
+}
+
+button[disabled] {
+    background: lightcoral;
+}
